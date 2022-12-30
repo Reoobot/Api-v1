@@ -1,0 +1,10 @@
+[
+    {
+        "post_id":1,
+        "comment": "Gracias a este post aprendi a crar una api rest"
+    },
+    {
+        "post_id":2,
+        "comment":"Gracias ya se BDS"
+    }
+]
